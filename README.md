@@ -24,4 +24,6 @@ Links to code for inferring who infected whom
 - Outbreaker, R package
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003457)
   - [Code](https://cran.r-project.org/web/packages/outbreaker/index.html)
+- Outbreaker2, R package
+  - [Code](https://github.com/thibautjombart/outbreaker2)
 
