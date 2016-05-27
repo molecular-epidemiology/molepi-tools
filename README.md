@@ -26,6 +26,11 @@ Links to code for inferring who infected whom
   - [Code](https://cran.r-project.org/web/packages/outbreaker/index.html)
 - Outbreaker2, R package
   - [Code](https://github.com/thibautjombart/outbreaker2)
-- Eben Kenah's approach (code in supplement)
+- Eben Kenah's approach (R code in supplement)
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004869)
+- phybreak, R package
+  - [code](https://github.com/donkeyshot/phybreak)
+- phylo.source.attribution (in ```phydynR``` package)
+  - [paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003397)
+  - [code](https://github.com/emvolz-phylodynamics/phydynR)
 
