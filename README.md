@@ -13,11 +13,12 @@ Links to code for inferring who infected whom
 - BEASTLIER, BEAST1 hacking/BEAST2 package
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004613)
   - [Code](https://github.com/twoseventwo/beastlier)
-- TransPhylo, Matlab (can work in Octave)
+- TransPhyloMatlab, Matlab (can work in Octave)
   - [Paper](http://mbe.oxfordjournals.org/content/early/2014/04/24/molbev.msu121)
+  - [Code](https://github.com/xavierdidelot/TransPhyloMatlab)
+- TransPhylo, R package
+  - [Paper](http://biorxiv.org/content/early/2016/07/22/065334)
   - [Code](https://github.com/xavierdidelot/TransPhylo)
-- EpiPhylo, R package
-  - [Code](https://github.com/xavierdidelot/EpiPhylo)
 - SeqTrack, in R package ```adegenet```
   - [Paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3183872/)
   - [Code](https://cran.r-project.org/web/packages/adegenet/index.html)
