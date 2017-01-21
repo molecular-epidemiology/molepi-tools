@@ -30,8 +30,12 @@ Links to code for inferring who infected whom
 - Eben Kenah's approach (R code in supplement)
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004869)
 - phybreak, R package
+  - [Paper](http://biorxiv.org/content/early/2016/08/12/069195)
   - [Code](https://github.com/donkeyshot/phybreak)
 - phylo.source.attribution (in ```phydynR``` package)
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003397)
   - [Code](https://github.com/emvolz-phylodynamics/phydynR)
-
+- genPOMP (C++)
+  - [Paper](http://biorxiv.org/content/early/2016/12/23/096396)
+  - [Code](https://github.com/kingaa/genpomp) - currently not online
+ 
