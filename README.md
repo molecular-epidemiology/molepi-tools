@@ -39,3 +39,18 @@ Links to code for inferring who infected whom
   - [Paper](https://doi.org/10.1093/molbev/msx124)
   - [Code](https://github.com/kingaa/genpomp)
  
+
+## Other relevant papers
+
+There are also some papers describing algorithms for which code is apparently lacking:
+
+- Ypman et al. (2011)
+   - [Paper](http://rspb.royalsocietypublishing.org/content/279/1728/444)
+- Morelli et al. (2012)
+   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002768)
+- Ypma et al. (2013)
+   - [Paper](http://www.genetics.org/content/195/3/1055.short)
+- Numminen et al. (2014)
+  - [Paper](http://rspb.royalsocietypublishing.org/content/281/1794/20141324.short)
+ 
+ 
