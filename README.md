@@ -36,6 +36,6 @@ Links to code for inferring who infected whom
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003397)
   - [Code](https://github.com/emvolz-phylodynamics/phydynR)
 - genPOMP (C++)
-  - [Paper](http://biorxiv.org/content/early/2016/12/23/096396)
+  - [Paper](https://doi.org/10.1093/molbev/msx124)
   - [Code](https://github.com/kingaa/genpomp)
  
