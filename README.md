@@ -57,5 +57,3 @@ There are also some papers describing algorithms for which code is apparently la
    - [Paper](http://www.genetics.org/content/195/3/1055.short)
 - Numminen et al. (2014)
   - [Paper](http://rspb.royalsocietypublishing.org/content/281/1794/20141324.short)
- 
- 
