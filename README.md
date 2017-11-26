@@ -41,6 +41,9 @@ Links to code for inferring who infected whom
 - TTsampler, R package
   - [Paper](https://www.biorxiv.org/content/early/2017/07/08/160812)
   - [Code](https://github.com/mdhall272/TTsampler)
+- Corander lab ABC approach (Matlab)
+  - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/biom.12040/full)
+  - [Code (as supplementary information)](http://onlinelibrary.wiley.com/doi/10.1111/biom.12040/full)
 
 ## Other relevant papers
 
