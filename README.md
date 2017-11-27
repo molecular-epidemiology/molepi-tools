@@ -59,6 +59,8 @@ There are also some papers describing algorithms for which code is apparently la
 
 - Cottam et al. (2008)
    - [Paper](http://rspb.royalsocietypublishing.org/content/275/1637/887)
+- Allen and Velsko (2009)
+   - [Paper](https://e-reports-ext.llnl.gov/pdf/382760.pdf)
 - Aldrin et al. (2011)
    - [Paper](http://rsif.royalsocietypublishing.org/content/8/62/1346)
 - Ypma et al. (2011)
@@ -71,5 +73,7 @@ There are also some papers describing algorithms for which code is apparently la
    - [Paper](http://rspb.royalsocietypublishing.org/content/281/1782/20133251)
 - Numminen et al. (2014)
   - [Paper](http://rspb.royalsocietypublishing.org/content/281/1794/20141324.short)
+- Velsko et al. (2014)
+  - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/elps.201400205/full)
 - Worby et al. (2017)
   - [Paper](https://academic.oup.com/aje/article/186/10/1209/3860343)
