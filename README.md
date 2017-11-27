@@ -27,6 +27,8 @@ Links to code for inferring who infected whom
   - [Code](https://cran.r-project.org/web/packages/outbreaker/index.html)
 - Outbreaker2, R package
   - [Code](https://github.com/thibautjombart/outbreaker2)
+- o2mod.transphylo: TransPhylo model as an Outbreaker2 module
+  - [Code](https://github.com/xavierdidelot/o2mod.transphylo)
 - Eben Kenah's approach (R code in supplement)
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004869)
 - phybreak, R package
