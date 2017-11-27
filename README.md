@@ -54,7 +54,11 @@ Links to code for inferring who infected whom
 
 There are also some papers describing algorithms for which code is apparently lacking:
 
-- Ypman et al. (2011)
+- Cottam et al. (2008)
+   - [Paper](http://rspb.royalsocietypublishing.org/content/275/1637/887)
+- Aldrin et al. (2011)
+   - [Paper](http://rsif.royalsocietypublishing.org/content/8/62/1346)
+- Ypma et al. (2011)
    - [Paper](http://rspb.royalsocietypublishing.org/content/279/1728/444)
 - Morelli et al. (2012)
    - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002768)
