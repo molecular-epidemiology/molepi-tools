@@ -71,3 +71,5 @@ There are also some papers describing algorithms for which code is apparently la
    - [Paper](http://rspb.royalsocietypublishing.org/content/281/1782/20133251)
 - Numminen et al. (2014)
   - [Paper](http://rspb.royalsocietypublishing.org/content/281/1794/20141324.short)
+- Worby et al. (2017)
+  - [Paper](https://academic.oup.com/aje/article/186/10/1209/3860343)
