@@ -12,7 +12,7 @@ Links to code for inferring who infected whom
   - [Code](https://cran.r-project.org/web/packages/bitrugs/)
 - BEASTLIER, BEAST1 hacking/BEAST2 package
   - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004613)
-  - [Code](https://github.com/twoseventwo/beastlier)
+  - [Code](https://github.com/mdhall272/beastlier)
 - TransPhyloMatlab, Matlab (can work in Octave)
   - [Paper](http://mbe.oxfordjournals.org/content/early/2014/04/24/molbev.msu121)
   - [Code](https://github.com/xavierdidelot/TransPhyloMatlab)
@@ -49,6 +49,9 @@ Links to code for inferring who infected whom
 - TransPairs (Matlab)
   - [Paper](https://elifesciences.org/articles/16644)
   - [Code](https://github.com/xavierdidelot/TransPairs)
+- BADTRIP, BEAST2 package
+  - [Paper](https://www.biorxiv.org/content/early/2017/11/08/213819)
+  - [Code](https://bitbucket.org/nicofmay/badtrip)
 
 ## Other relevant papers
 
