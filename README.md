@@ -44,6 +44,9 @@ Links to code for inferring who infected whom
 - Corander lab ABC approach (Matlab)
   - [Paper](http://onlinelibrary.wiley.com/doi/10.1111/biom.12040/full)
   - [Code (as supplementary information)](http://onlinelibrary.wiley.com/doi/10.1111/biom.12040/full)
+- TransPairs (Matlab)
+  - [Paper](https://elifesciences.org/articles/16644)
+  - [Code](https://github.com/xavierdidelot/TransPairs)
 
 ## Other relevant papers
 
