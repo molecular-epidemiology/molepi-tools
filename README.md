@@ -67,5 +67,7 @@ There are also some papers describing algorithms for which code is apparently la
    - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002768)
 - Ypma et al. (2013)
    - [Paper](http://www.genetics.org/content/195/3/1055.short)
+- Mollentze et al. (2014)
+   - [Paper](http://rspb.royalsocietypublishing.org/content/281/1782/20133251)
 - Numminen et al. (2014)
   - [Paper](http://rspb.royalsocietypublishing.org/content/281/1794/20141324.short)
