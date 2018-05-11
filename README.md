@@ -40,6 +40,9 @@ Links to code for inferring who infected whom
 - genPOMP (C++)
   - [Paper](https://doi.org/10.1093/molbev/msx124)
   - [Code](https://github.com/kingaa/genpomp)
+- transcluster (R)
+  - [Paper](https://www.biorxiv.org/content/early/2018/05/10/319707)
+  - [Code](https://github.com/JamesStimson/transcluster)
 - TTsampler, R package
   - [Paper](https://www.biorxiv.org/content/early/2017/07/08/160812)
   - [Code](https://github.com/mdhall272/TTsampler)
