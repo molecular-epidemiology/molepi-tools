@@ -55,10 +55,14 @@ Links to code for inferring who infected whom
 - BADTRIP, BEAST2 package
   - [Paper](https://www.biorxiv.org/content/early/2017/11/08/213819)
   - [Code](https://bitbucket.org/nicofmay/badtrip)
+- QUENTIN
+  - [Paper](https://academic.oup.com/bioinformatics/article/34/1/163/3870483)
+  - [Matlab version](https://github.com/skumsp/QUENTIN)
+  - [Python version](https://github.com/walkergussler/quentin)
 
 ## Other relevant papers
 
-There are also some papers describing algorithms for which code is apparently lacking:
+There are also some papers describing algorithms for which code is apparently lacking or available only on request:
 
 - Cottam et al. (2008)
    - [Paper](http://rspb.royalsocietypublishing.org/content/275/1637/887)
@@ -80,3 +84,11 @@ There are also some papers describing algorithms for which code is apparently la
   - [Paper](http://onlinelibrary.wiley.com/doi/10.1002/elps.201400205/full)
 - Worby et al. (2017)
   - [Paper](https://academic.oup.com/aje/article/186/10/1209/3860343)
+- Campo et al. (2016), MinDist
+  - [Paper](https://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiv542)
+- Glebova et al. (2017), MinDistB and ReD
+  - [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4274-5)
+- Tsyvina et al. (2017)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/8114318/)
+- Rytsareva et al. (2017)
+  - [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3732-4)
