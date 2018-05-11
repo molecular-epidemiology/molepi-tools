@@ -59,6 +59,9 @@ Links to code for inferring who infected whom
   - [Paper](https://academic.oup.com/bioinformatics/article/34/1/163/3870483)
   - [Matlab version](https://github.com/skumsp/QUENTIN)
   - [Python version](https://github.com/walkergussler/quentin)
+- Phyloscanner (Python/R)
+  - [Paper](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msx304)
+  - [Code](https://github.com/BDI-pathogens/phyloscanner)
 
 ## Other relevant papers
 
